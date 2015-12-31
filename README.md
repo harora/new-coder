@@ -1,3 +1,3 @@
-# new-coder.io
+# newcoder.io
 
-Trying out courses on new-coder.io involving Data Visualization and Networking
+Trying out courses on newcoder.io involving Data Visualization and Networking
